@@ -1,0 +1,3 @@
+# Just like we did in bandit2 we are given with multiple dashed filenames and one of them has readable text 
+# So we cat them using redirection and get the output
+# lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
