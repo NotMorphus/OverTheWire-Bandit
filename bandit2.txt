@@ -1,0 +1,7 @@
+# This room focuses of a similar filename problem which is spaces in the filename
+# Like we did before we take the  password from the previous room and login into the new room
+# After we ls in the cwd(current working directory) we see a filename with spaces when we try to open
+# it just like earlier we cant because cat/nano assumes spaces as spaces between 2 different files
+# So we did some googling and found out that \ can be used to treat spaces as spaces in the filename
+# and not seperator between different files(Google spaces between files)
+# aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
