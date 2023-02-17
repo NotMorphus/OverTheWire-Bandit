@@ -1,0 +1,6 @@
+# In this room we are given a task to find out hidden files in the directory
+# If we look at the ls command (man ls or ls help) we see that -a gives you hidden files present
+# in the directory thus we do ls -la
+# We get a file named hidden with a dot in the front (Google hidden files in linux)
+# We cat like we usually do and get the password for the next room
+# 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
