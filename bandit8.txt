@@ -1,0 +1,5 @@
+# Here we weer asked to find password in a file where there are many duplicate entries of different hashes
+# So we used to sort to sort the input first in the form that all duplicates come together and
+# then we applied uniq with count =1 to get the only 1 time occuring key which is our password
+# (Google uniq and sort)
+# EN632PlfYiZbn3PhVK3XOGSlNInNE00t
