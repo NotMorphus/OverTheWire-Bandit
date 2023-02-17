@@ -1,0 +1,6 @@
+# Here we are tasked with to find a password from data.txt which has a combination of some readbale text
+and some unreadble text 
+# We use strings to seperate only readable text from the file and then grep the same using 
+# the output piped from it 
+# (Google strings and grep)
+# G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
