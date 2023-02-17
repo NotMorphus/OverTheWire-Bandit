@@ -1,0 +1,8 @@
+# OverTheWire Bandit0
+# We have to learn how to ssh into a machine(man ssh or ssh help)
+# First we install ssh using sudo apt-get install ssh
+# Then we are asked to login to a particular domain using specific port and username/passowrd combination
+# which will grant you access to the machine 
+# In there after you ls(list) on the current working directory you will find a readme file
+# Using cat we check the contents of the file and find the flag required for the next level
+# NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
