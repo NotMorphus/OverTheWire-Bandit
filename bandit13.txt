@@ -1,0 +1,4 @@
+# For this we are not given any file but a private key file for bandit14 machine which will help 
+# us to log us in and get the password stored in /etc/bandit_pass/bandit14
+#  man ssh to know more about it
+# fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
