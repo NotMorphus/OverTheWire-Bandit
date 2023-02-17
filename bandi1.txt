@@ -1,0 +1,7 @@
+# Using the password we got from the first level we login to the next room
+# using the username bandit1 and the password flag gotten from the readme file
+# There we find a filename with a dash
+# Because dash is used for options in commands we cant just cat it to look inside but if we redirect 
+# it's output to cat we can view what the file contains (Google redirection/ dashed filename)
+# We got the password for the next room
+# rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
