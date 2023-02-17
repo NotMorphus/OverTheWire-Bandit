@@ -1,0 +1,4 @@
+ # This taks gives us a hexdump of a heavily compressed file several times from where after getting 
+ # hexdump we will extract and unzip as per the type given by the file 
+ # see man file, tar, bzip2, gzip
+ # wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
