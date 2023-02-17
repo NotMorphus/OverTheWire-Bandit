@@ -1,0 +1,4 @@
+# We are given a set of directories where we have to find a file having size 1033 bytes
+# so we use ls -la * in the directory and redirect the output to a grep command for 1033 bytes
+# We get a hidden name file2 and cat the file and get the password
+# P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
