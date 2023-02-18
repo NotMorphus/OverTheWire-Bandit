@@ -1,0 +1,5 @@
+# This task aims to teach us how setuid works
+# You might want to google setuid and read its man page once to get the idea of what's happening there
+# Basically it gives special privileges for the user just oncee so that it can execute certain command
+# We cat the /etc/bandit_pass/bandit20 file to retrieve the password
+# VxCazJaVykI6W36BkBU0mJTCM8rR95XT
