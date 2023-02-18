@@ -1,0 +1,5 @@
+# This room has 2 files named passwords.new and passwords.old whcih signify that a new line has been
+# added to the new file and to view that line we use the diff command
+# check man diff 
+# We get the password through the same and go to the next room 
+# hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
