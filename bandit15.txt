@@ -1,0 +1,5 @@
+# This room's task is to get the password from localhost(bandit.labs.overthewire.org) on port 30001 
+# through an SSL connection so we used openssl s_client to connect to the website and submit the 
+# password we got from the earlier room to get the new password 
+# see man openssl and openssl s_client
+# JQttfApK4SeyHwDlI9SXGR50qclOAil1
