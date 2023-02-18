@@ -1,0 +1,5 @@
+# This task intends to connect ssh to your machine but as soon as conenction 
+# is established the connection is closed abruptly. The password is stored in a readme file
+# We can again ssh but this time we specify the command to be executed  in the remote shell
+# and with that we get the password (man ssh)
+# awhqfNnAbc1naukrpqDYcF95h7HoMTrC
