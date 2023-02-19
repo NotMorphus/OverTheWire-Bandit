@@ -1,0 +1,5 @@
+# This task asks us to check what cronjobs are runing at regular intervals and thus find out
+# what the password is. We check the file and find out password is getting stored
+# in a tmp file and thus retrieve the password from there
+# man crontab and cron  
+# WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff
