@@ -1,0 +1,4 @@
+# This level is a bit tricky considering the usage of bg and fg and netcat as well
+# We first have to first create a server listening to our connection and send our password with echo
+# and then connect to it using suconnect file and we get the password for the next room
+# NvEJF7oVjkddltPSrdKEFOllh9V1IBcq
