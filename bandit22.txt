@@ -1,0 +1,3 @@
+# This level gives us a script to mention that it will hash the value and create a directory with 
+# that hash and cat the same file and get the apssword for the next room
+# QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G
