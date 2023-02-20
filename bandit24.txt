@@ -1,0 +1,9 @@
+#!/bin/bash
+for i in {0000..9999}
+do
+	echo VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar $i
+done
+# This task requires us to write a script which will bruteforce a port pincode for 10000 attempts(4 digit
+# passcode and previous room's password seperated by space)
+# we run the script and send its output to the nc localhost 30002 and get the password for the next room
+# p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d
