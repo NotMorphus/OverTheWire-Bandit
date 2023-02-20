@@ -1,0 +1,6 @@
+# This task is similar to previous task just that we have to write a script which cats the password file
+# in etc to our temp file and that put that script in /var/spool so that executes every minute
+# We get the password copied to our temp file and then we go to the next room
+# make sure to check the permissions of the file to write so that other users can also execute and 
+# write to the file
+# VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar
