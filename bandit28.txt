@@ -1,0 +1,4 @@
+# This is similar to the room previously solved 
+# The twist here is that we have to view the logs of git commits in the repository and checkout to the 
+# previous commit from where we will find the updated password for the next room 
+# tQKvmcwNYcFS6vmPHIUSI3ShmsrQZK8S
