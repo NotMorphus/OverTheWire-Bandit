@@ -1,0 +1,6 @@
+# The final level of the bandit...
+# We're given an uppershell which is interactive
+# $0 gives us the current shell prompt and that's all we need :D
+# $0 returns us the shell whcih we are currently working on and hence... cat the /etc/bandit_pass 
+# to get the password
+# odHo63fHiFqcWWJG9rLiLDtPm45KzUKy
