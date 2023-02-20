@@ -1,0 +1,3 @@
+# Without quitting the previous shell we see a bandit27-do executable which is set by setuid with that
+# we cat the password for bandit27 and proceed further
+# YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS
