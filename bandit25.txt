@@ -1,0 +1,9 @@
+# When you cat /etc/passwd and then check the shell(not exactly a shell) command being run and cat that 
+# particular script in /usr/bin/showtext you'll see there's a more command being called and then directly
+# the scripts kicks us back out
+# For that we make our ssh screen as small as possible and ssh into the machine using the private key
+# After that we land at a more interface where you can call an editor using v command and then 
+# read the password from /etc/bandit_pass(using :e) That's not all... you'll have to invoke a shell
+# to continue to next level (:shell :set shell=/bin/bash)
+# man vi and more 
+# c7GvcKlw9mC7aUQaPx7nwFstuAIBw1o1
