@@ -1,5 +1,5 @@
 # This task introduces us with the concept of branching through which we can solve the problem
-# After cehcking the git logs and rolling back the commit we were not able to find the password but as soon as we 
+# After checking the git logs and rolling back the commit we were not able to find the password but as soon as we 
 # different branches present in the repository we checked out on one of the branches to find the password 
-# man git log/diff/branch
+# man git log/diff/branch 
 # xbhV3HpNGlTIdnjUrdAlPzc2L6y9EOnS
