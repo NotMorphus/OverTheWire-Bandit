@@ -1,0 +1,4 @@
+# This is just a normal git clone command using ssh link and the trick here is to mention the correct port
+# and then just cat the README file and get the password
+# man git, man git clone
+# AVanL161y9rsbcJIsFHuw35rjaOM19nR
